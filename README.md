@@ -1,4 +1,4 @@
-# Mini Web Crawler
+# Mini Web Crawler🌐
 
 A web crawler cli for small-sites. It checks how many internal links exists in a website.
 
