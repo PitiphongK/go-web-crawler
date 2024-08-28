@@ -10,7 +10,10 @@ git clone https://github.com/RealNai/go-web-crawler.git
 then run
 ```
 ./crawler <website> <max-go-routine> <max-page>
-//example: ./crawler https://en.wikipedia.org/wiki/Main_Page 5 50
+```
+Example:
+```
+./crawler https://en.wikipedia.org/wiki/Main_Page 5 50
 ```
 *max-go-routine* is the maximum number of concurent go routine that can run at one.
 
